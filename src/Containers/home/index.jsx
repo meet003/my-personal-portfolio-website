@@ -47,7 +47,7 @@ const Home = () => {
                     </div>
                     <div className='contact-me__socials-wrapper'>
                         <a href='https://www.linkedin.com/in/meet-savaliya-936085230/' target="_blank" rel="noreferrer"><FaLinkedin size={32} /> </a>
-                        <a ><FaFacebook size={32} /></a>
+                        <a href='https://www.linkedin.com/in/meet-savaliya-936085230/' target="_blank" rel="noreferrer"><FaFacebook size={32} /></a>
                         <a href='https://twitter.com/meet18__' target="_blank" rel="noreferrer"><FaTwitter size={32} /></a>
                         <a href='https://www.instagram.com/_meett18/?hl=en' target="_blank" rel="noreferrer" ><FaInstagram size={32} /></a>
 
