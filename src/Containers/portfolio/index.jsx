@@ -3,7 +3,7 @@ import PageHeaderContent from '../../components/pageHeaderContent';
 import { AiFillProject } from 'react-icons/ai'
 import './styles.scss';
 import { portfolioData } from './utils';
-import imageOne from '../../images/image1.jpg'
+
 
 const Portfolio = () => {
     return (

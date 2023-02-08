@@ -20,92 +20,92 @@ import figma from '../../images/icon_figma.png'
 
 export const skillData = [
     {
-        Image: one,
+        logo: one,
         skillName: "Android",
 
     },
     {
-        Image: two,
+        logo: two,
         skillName: "Java",
 
     },
     {
-        Image: three,
+        logo: three,
         skillName: "Python",
 
     },
     {
-        Image: four,
+        logo: four,
         skillName: "JavaScript",
 
     },
     {
-        Image: five,
+        logo: five,
         skillName: "HTML",
 
     },
     {
-        Image: css,
+        logo: css,
         skillName: "CSS",
 
     },
     {
-        Image: nodejs,
+        logo: nodejs,
         skillName: "Node js",
 
     },
     {
-        Image: express,
+        logo: express,
         skillName: "Express js",
 
     },
     {
-        Image: mongo,
+        logo: mongo,
         skillName: "MongoDB",
 
     },
     {
-        Image: react,
+        logo: react,
         skillName: "React",
 
     },
     {
-        Image: reactnative,
+        logo: reactnative,
         skillName: "React Native",
 
     },
     {
-        Image: sql,
+        logo: sql,
         skillName: "SQL",
 
     },
     {
-        Image: firebase,
+        logo: firebase,
         skillName: "Firebase",
 
     },
     {
-        Image: Heroku,
+        logo: Heroku,
         skillName: "Heroku",
 
     },
     {
-        Image: git,
+        logo: git,
         skillName: "Git",
 
     },
     {
-        Image: github,
+        logo: github,
         skillName: "Github",
 
     },
     {
-        Image: bootstrap,
+        logo: bootstrap,
         skillName: "Bootstrap",
 
     },
     {
-        Image: figma,
+        logo: figma,
         skillName: "Figma",
 
     },
