@@ -12,7 +12,7 @@ import Portfolio from './Containers/portfolio';
 import Contact from './Containers/contact';
 import Navbar from './components/navBar';
 import particlesConfig from './helpers/particlesConfig';
-import Theme from './components/theme';
+
 
 
 
@@ -41,7 +41,7 @@ function App() {
       </div>
 
       <div className='App__main-content-wrapper'>
-        <Theme />
+
         <Routes>
           {/* create all route here */}
           <Route path='/' index element={<Home />} />
