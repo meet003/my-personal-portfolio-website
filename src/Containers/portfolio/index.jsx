@@ -18,7 +18,7 @@ const Portfolio = () => {
                     portfolioData.map((item) => (
                         <div className='card__main'>
                             <div class="card-image">
-                                <img src={item.Image} alt="project image" />
+                                <image src={item.Image} alt="project image" />
                             </div>
                             <div class="category"> {item.projectName} </div>
                             <div class="heading"> {item.projectTitle}

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import { FaReact, FaBars } from 'react-icons/fa'
+import { FaBars } from 'react-icons/fa'
 import { HiX } from 'react-icons/hi'
 import { navMenus } from "./config";
 import './styles.scss';
@@ -15,7 +15,7 @@ const Navbar = () => {
             <nav className="navBar">
                 <div className="navbar__container">
                     <Link to={'/'} className="navbar__container__logo">
-                        {/* <FaReact size={30} /> */}
+
                         <h3><span>&lt;&#47;M</span>EET&gt;</h3>
                     </Link>
                     <ul className={click ? "navbar__container__menu active" : "navbar__container__menu"}>
