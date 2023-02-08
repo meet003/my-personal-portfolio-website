@@ -16,7 +16,7 @@ const Skills = () => {
                     skillData.map((item) => (
                         <div class="card">
                             <div class="card2">
-                                <image src={item.logo} alt="project " class="center" />
+                                <img src={item.logo} alt="project " class="center" />
                                 <h3>{item.skillName}</h3>
                             </div>
                         </div>
